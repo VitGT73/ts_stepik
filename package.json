@@ -1,0 +1,19 @@
+{
+  "name": "ts_stepik",
+  "version": "1.0.0",
+  "description": "Проект для тестовых заданий по TS",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
+}
